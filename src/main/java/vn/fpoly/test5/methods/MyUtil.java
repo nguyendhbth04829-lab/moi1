@@ -11,4 +11,5 @@ public int tinhtongtu1denn(int n){
     }
     return tong;
 }
+
 }
